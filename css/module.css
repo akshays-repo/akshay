@@ -1,0 +1,31 @@
+.headerfont {
+    font-family: "Segoe UI", 'San Francisco', 'Roboto';
+    font-size: 20px;
+  }
+  .bg-color {
+    background-color:#4267b2;
+
+  }
+  .img {
+    border: 0;
+    display: inline-block;
+    align-content: center;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg{
+  background-color: #4267b2;
+  height:50%;
+}
+.bg1{
+  background-color: aqua;
+}
+
+.infotext{
+  font-size: 16px;
+  font-style:initial
+}
